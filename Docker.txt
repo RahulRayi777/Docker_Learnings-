@@ -1,0 +1,32 @@
+
+Docker:
+------
+Docker is a containerization platform which packages your application and all its dependencies together in the form of containers so as to ensure that your application works seamlessly in any environment, be it development, test or production.
+
+
+1)An application has lot of configurations and dependencies. In order to Containerize the entire application we dockerize the entire application. 
+
+2)For creating containers we need to basically create layers of images
+
+layers of image;
+---------------
+
+1)PYTHON 3.8 IMAGE
+2)ANACONDA IMAGE
+3)LINUX IMAGE
+4)MONGODB IMAGE 
+
+
+IF WE TAKE ENTIRE LAYERS OF IMAGES THIS IS NOTHING BUT DOCKER IMAGE
+                                                       -------------
+
+
+3)IF WE RUN THE DOCKER IMAGE IT WILL CREATE THE CONTAINER WITH IN THE ENVIRONMENT 
+
+
+DIFFERENCES BETWEEN DOCKER IMAGE AND CONTAINER:
+--------------------------------------------
+INSIDE THE PDF THESE ARE AVAILABLE 
+
+                                            
+
