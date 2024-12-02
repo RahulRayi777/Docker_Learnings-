@@ -29,5 +29,6 @@ DIFFERENCES BETWEEN DOCKER IMAGE AND CONTAINER:
 INSIDE THE PDF THESE ARE AVAILABLE 
 
 host='0.0.0.0' ---> Indicates that we can access it by local hodt also using our sysytem configuration and we can access it by local host
-                                            
+
+Docker Compose is used for the multiple containers or multiple images 
 
